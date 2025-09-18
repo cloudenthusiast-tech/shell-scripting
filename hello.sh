@@ -1,4 +1,6 @@
 #!/bin/bash
 set -e
 set -o
-echo "hello world from scripting"
+aravind=hello world from scripting
+
+echo $aravind
