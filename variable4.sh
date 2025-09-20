@@ -2,7 +2,7 @@
 
 #DATE=$(date)
 
-echo "executed on: $DATE"
+#echo "executed on: $DATE"
 START_TIME=$(DATE +%s)
 sleep 10
 END_TIME=$(DATE +%s)
