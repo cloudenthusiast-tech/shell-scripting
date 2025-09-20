@@ -3,4 +3,4 @@
 DATE=$(date)
 
 echo "executed on: $DATE"
-echo +%F
+echo "$+%F"
