@@ -1,6 +1,6 @@
 #!/bin/bash
 
 LEADERS=("modi" "putin" "trump" "melone")
-echo "powerful leaders on earth:"${LEADERS[@]}"
+echo "powerful leaders on earth:${LEADERS[@]}"
 
-echo "but number 1 leader is:"${LEADERS[0]}"
+echo "but number 1 leader is:${LEADERS[0]}"
