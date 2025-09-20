@@ -7,4 +7,4 @@ echo "pwd is : $pwd"
 
 
 echo "this is the PID of this script: $$"
-echo "these are background process PID: $!
+echo "these are background process PID: $!"
