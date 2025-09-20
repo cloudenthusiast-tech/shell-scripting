@@ -3,4 +3,9 @@
 DATE=$(date)
 
 echo "executed on: $DATE"
-echo "$+%F"
+START_TIME=$(DATE +%S)
+sleep 10
+END_TIME=$(DATE +%S)
+TOTAL_TIME=$(($START_TIME-$END_TIME))
+
+echo "script executed in:"$TOTAL_TIME"
