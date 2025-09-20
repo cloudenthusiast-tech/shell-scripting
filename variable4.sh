@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$(date)
+#DATE=$(date)
 
 echo "executed on: $DATE"
 START_TIME=$(DATE +%s)
