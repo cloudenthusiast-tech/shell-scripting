@@ -1,6 +1,6 @@
 #!/bin/bash
 
 COUNTRY=INDIA
-echo "$COUNTRY"
-echo "PID of script1:$$"
+echo "my country: $COUNTRY"
+echo "PID of script-1: $$"
 sh script2.sh
