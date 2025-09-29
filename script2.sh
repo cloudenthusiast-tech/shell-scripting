@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-echo "$COUNTRY"
+echo " my country name: $COUNTRY"
 echo "PID of this script2 :$$"
